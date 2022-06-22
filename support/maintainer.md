@@ -23,7 +23,7 @@ MI 9T Pro / Redmi K20 Pro (Raphel)- Tetsuo_Osaka
 POCO X3 NFC (Surya) - Hazama25
 
 
-OnePlus devices
+# OnePlus devices
 
 OnePlus Nord (Avicii) - Manikanta Raavi 
 
